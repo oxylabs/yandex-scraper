@@ -8,7 +8,7 @@ Follow this guide to scrape Yandex search results using our [Scraper API](https:
 
 ### How it works
 
-You can receive Yandex search results by providing URLs to our service or use [scraping parameters](https://developers.oxylabs.io/scraper-apis/serp-scraper-api/yandex) to let us form them on our end. The API returns an HTML or structured JSON of any Yandex page.
+You can receive Yandex search results by providing URLs to our service or using [scraping parameters](https://developers.oxylabs.io/scraper-apis/serp-scraper-api/yandex) to let us form them on our end. The API returns an HTML or structured JSON of any Yandex page.
 
 #### Python code example
 
