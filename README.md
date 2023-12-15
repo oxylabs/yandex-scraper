@@ -59,4 +59,4 @@ Code samples for other programming languages are [here](https://github.com/oxyla
 
 Use Oxylabs' Yandex Scraper and let us handle infrastructure management and web unblocking, allowing you to concentrate on the essentials – data and its analysis.
 
-If you have any inquiries, reach out to us at hello@oxylabs.io or use live chat through our website.
+If you have any inquiries, reach out to us at hello@oxylabs.io or use live chat on our website.
