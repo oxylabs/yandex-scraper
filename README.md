@@ -22,7 +22,7 @@ from pprint import pprint
 
 # Structure payload.
 payload = {
-   'source': 'yandex',
+   'source': 'universal',
    'url': 'https://yandex.com/search/?text=nike&'
 }
 
@@ -34,7 +34,7 @@ response = requests.request(
     json=payload,
 )
 
-# Instead of response with job status and results url, this will return the
+# Instead of response with job status and results URL, this will return the
 # JSON response with results.
 pprint(response.json())
 ```
