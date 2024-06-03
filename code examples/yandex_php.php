@@ -1,7 +1,7 @@
 <?php
 
 $params = array(
-  'source' => 'yandex',
+  'source' => 'universal',
   'url' => 'https://yandex.com/search/?text=nike&'
 );
 
