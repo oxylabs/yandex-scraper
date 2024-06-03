@@ -15,7 +15,7 @@ namespace OxyApi
 
             var parameters = new Dictionary&lt;string, string>()
             {
-		{"source", "yandex"},
+		{"source", "universal"},
 		{"url", "https://yandex.com/search/?text=nike&"}
             };
 
