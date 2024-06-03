@@ -3,7 +3,7 @@ import fetch from 'node-fetch';
 const username = 'YOUR_USERNAME';
 const password = 'YOUR_PASSWORD';
 const body = {
- 'source': 'yandex',
+ 'source': 'universal',
  'url': 'https://yandex.com/search/?text=nike&',
 };
 const response = await fetch('https://realtime.oxylabs.io/v1/queries', {
