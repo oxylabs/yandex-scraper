@@ -3,7 +3,7 @@ from pprint import pprint
 
 # Structure payload.
 payload = {
-   'source': 'yandex',
+   'source': 'universal',
    'url': 'https://yandex.com/search/?text=nike&'
 }
 
