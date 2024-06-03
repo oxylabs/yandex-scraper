@@ -13,7 +13,7 @@ func main() {
     const Password = "YOUR_PASSWORD"
 
     payload := map[string]string{
-      	"source": "yandex",
+      	"source": "universal",
 	"url": "https://yandex.com/search/?text=nike&",
           }
 
